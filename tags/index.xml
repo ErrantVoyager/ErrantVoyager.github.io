@@ -4,8 +4,23 @@
     <title>Tags on ErrantVoyager</title>
     <link>https://errantvoyager.github.io/tags/</link>
     <description>Recent content in Tags on ErrantVoyager</description>
-    <generator>Hugo -- 0.151.0</generator>
+    <generator>Hugo</generator>
     <language>it</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://errantvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exhibition</title>
+      <link>https://errantvoyager.github.io/tags/exhibition/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://errantvoyager.github.io/tags/exhibition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://errantvoyager.github.io/tags/review/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://errantvoyager.github.io/tags/review/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
